@@ -101,7 +101,7 @@ return [
     |
     */
 
-    'templates' => 'adminlte-templates',
+    'templates' => 'core-templates',
 
     /*
     |--------------------------------------------------------------------------
